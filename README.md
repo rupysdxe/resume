@@ -57,6 +57,7 @@ _Jul 2019 - Dec 2020_
 - Spring Boot
 - MySQL
 - Docker
+- AWS EC2, Azure VM.
 
 ## Courses
 - Cloud Computing (NET 300)
